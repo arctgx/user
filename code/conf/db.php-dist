@@ -1,0 +1,14 @@
+<?php
+
+// 数据库配置
+return array (
+    // 存储魅族bbs数据的数据库
+    'meizu' => array(
+        'host'      => '127.0.0.1',
+        'port'      => '3306',
+        'user'      => 'user_1',
+        'pwd'       => '123456',
+        'db'        => 'db_1',
+        'charset'   => 'utf8',
+    ),
+);
